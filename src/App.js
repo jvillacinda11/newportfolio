@@ -5,7 +5,7 @@ function App() {
   return (
 <>
 <h1>This is my new react portfolio</h1>
-<p>It's been a while lmao</p>
+
 </>
   );
 }
