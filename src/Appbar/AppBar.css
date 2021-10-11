@@ -2,3 +2,15 @@
   position: sticky;
   top: 0;
 }
+
+.link {
+  text-decoration: none;
+  color: inherit;
+  font-weight: 750;
+}
+
+.link:hover {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
